@@ -7,3 +7,5 @@
 2º Projeto - Exploração da base de dados das Palestras do TED Talks. Regressão Linear e Logística.
 
 3º Projeto - Exploração da base de dados das Palestras do Netflix. Árvore de Decisão e Floresta Aleatória.
+
+4º Projeto - Exploração da base de dados do Fifa19. SVM, Naive Bayes, KNN e k-Means. 
